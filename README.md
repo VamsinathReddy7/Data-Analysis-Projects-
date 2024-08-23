@@ -20,9 +20,9 @@ step 2 : Data Visualisation
 
  • Key Measures and Visuals:
     
-        •	We introduced essential measures, including total production, yield per hectare, total crops, and total agricultural area, displayed in cards for quick analysis.
-        •	Our visualizations included slicers, line charts, pie charts, bar charts, and text boxes.
-        •	We thoughtfully arranged these visuals to enhance understanding and insights.
+        •	I introduced essential measures, including total production, yield per hectare, total crops, and total agricultural area, displayed in cards for quick analysis.
+        •	Our visualizations included slicers, line charts, pie charts, bar charts, and text boxes,Images.
+        •	I thoughtfully arranged these visuals to enhance understanding and insights.
 
 
 step 3 : Insights
