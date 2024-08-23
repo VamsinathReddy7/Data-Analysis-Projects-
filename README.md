@@ -36,4 +36,5 @@ step 3 : Insights
         •	There has been a shift from traditional cereals like Millets to more profitable crops like Wheat, Rice, and Cotton, driven by market demand and government policies, raising concerns about food security and biodiversity.
         •	Punjab and Haryana exhibit higher productivity due to advanced agricultural techniques, while Bihar and Uttar Pradesh lag behind, indicating the need for improved farming practices and infrastructure.
 
-        <img width="743" alt="Screenshot 2024-08-23 131156" src="https://github.com/user-attachments/assets/85683dc0-1e8a-4880-89e5-44f943913604">
+
+ <img width="743" alt="Screenshot 2024-08-23 131156" src="https://github.com/user-attachments/assets/85683dc0-1e8a-4880-89e5-44f943913604">
