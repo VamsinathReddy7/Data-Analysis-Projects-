@@ -9,7 +9,7 @@ Step 1 : ETL (Export, Transform & Load)
   
   • Data Export and Transformation:
 
-        •	I exported the dataset to Power BI (utilizing Power Query) for data transformation.
+        •	I exported the dataset to PowerBI (utilizing Power Query) for data transformation.
         •	During exploration, I identified several missing and null values in the date column.
         •	Notably, consecutive missing cells followed a sequential pattern, allowing us to fill them down from the top cell.
         •	In the “Season” column, unique values represented summer, winter, and autumn.
